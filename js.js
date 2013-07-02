@@ -1,1 +1,1 @@
-alert('hello from XSS!');
+$('.ssubtext').click()
